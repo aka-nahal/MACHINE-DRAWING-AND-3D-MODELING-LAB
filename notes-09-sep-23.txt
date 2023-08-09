@@ -7,4 +7,8 @@ Double Riveted Butt Joint
 
 Double the joint
 
+Margin is the distance b/w edge to middle of rivet.
+
+Pitch is the distance between two rivets.
+
 
