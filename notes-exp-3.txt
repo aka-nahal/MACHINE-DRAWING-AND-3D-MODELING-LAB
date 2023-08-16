@@ -1,0 +1,24 @@
+Threads
+
+Terminology:-
+
+Major
+minor
+pitch diameter
+pitch
+lead
+flank
+crest
+root
+
+Threads:
+
+V-threads
+British standard whitworth thread
+buttress thread (v + sqaure threads) - power in only one direction
+ISO threads
+sqaure threads - power transmission 
+ACME
+worm thread
+
+
